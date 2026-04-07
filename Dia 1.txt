@@ -1,0 +1,85 @@
+🧠 Patrón del día:
+
+👉 **header → main → section → footer**
+
+1. Crear tu entorno (10 min)
+
+- [ ]  Crear archivo: `index.html`
+- [ ]  Abrir en VS Code
+- [ ]  Instalar extensión: Live Server
+
+ 2. Escribir estructura base (NO PENSAR, SOLO COPIAR)
+
+- [ ]  Escribe esto:
+
+<!DOCTYPE html>
+<html lang="en/sp">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejemplo</title>
+</head>
+<body>
+
+  <header>
+    <h1>Tirulo h1</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Sección 1 con h2</h2>
+      <p>Contenido de la seccion 1</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Footer</p>
+  </footer>
+
+</body>
+</html>
+
+
+3. Ver resultado (5 min)
+
+- [ ]  Click derecho → Open with Live Server
+
+ 4. Ejecicio Practico (15 min)
+
+- [ ]  Cambia textos
+- [ ]  Agrega otra sección
+- [ ]  Agrega un botón
+
+ 5. Repetir x3
+
+- [ ]  Pagina 1 Copia de una web real
+- [ ]  Pagina 2 Copia de una web real
+- [ ]  Pagina 3 Copia de una web real
+
+🟢 DÍA 1 Plantilla
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practica 2</title>
+</head>
+
+<body>
+    <header>
+
+    </header>
+
+    <main>
+        <section>
+
+        </section>
+    </main>
+
+    <footer>
+        
+    </footer>
+</body>
+</html>
+
+🎯 Enfócate en:
+→ `<header>`, `<section>`, `<h1>`, `<p>`, `<button>`
