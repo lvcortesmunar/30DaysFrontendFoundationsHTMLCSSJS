@@ -1,0 +1,40 @@
+👉 contenido = texto + listas + imágenes
+1. Crear nueva página
+
+- [ ]  `pagina2.html`
+
+ 2. Rehacer TODO sin copiar (30 min)
+
+(Si te bloqueas → miras → sigues)
+
+- [ ]  Estructura completa
+- [ ]  2 secciones
+- [ ]  1 botón
+
+ 3. Agregar lista (nuevo)
+
+- [ ]  Escribir:
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+4. Agregar imagen
+
+- [ ]  Copia una imagen de internet
+- [ ]  Usa:
+<img src="URL" alt="imagen">
+
+5. Repetir x3
+
+- [ ]  Pagina 1 Copia de una web real
+- [ ]  Pagina 2 Copia de una web real
+- [ ]  Pagina 3 Copia de una web real
+
+🟢 DÍA 2 Plantilla
+
+
+
+🎯 Enfócate en:
+
+→ `<input>` + `<form>` + agrupación

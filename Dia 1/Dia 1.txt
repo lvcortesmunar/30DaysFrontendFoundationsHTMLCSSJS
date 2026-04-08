@@ -1,5 +1,3 @@
-🧠 Patrón del día:
-
 👉 **header → main → section → footer**
 
 1. Crear tu entorno (10 min)
