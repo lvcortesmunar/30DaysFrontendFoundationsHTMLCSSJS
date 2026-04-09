@@ -1,0 +1,45 @@
+### 1. Crear:
+
+- [ ]  `landing.html`
+
+### 2. Construir esto EXACTO:
+
+- [ ]  Header (logo + nav)
+- [ ]  Hero (título + botón)
+- [ ]  3 secciones (cards simples)
+- [ ]  Footer
+
+### 3. Código guía (solo si te bloqueas)
+
+- [ ]  Copiar:
+
+```yaml
+<header>
+  <h1>Logo</h1>
+  <nav>
+    <a href="#">Inicio</a>
+    <a href="#">Contacto</a>
+  </nav>
+</header>
+```
+
+### 4. Micro-reto
+
+- [ ]  Agregar 3 “cards” (repite estructura)
+
+### 5. Repetir x3
+
+- [ ]  Pagina 1 Copia de una web real
+- [ ]  Pagina 2 Copia de una web real
+- [ ]  Pagina 3 Copia de una web real
+
+## 🟢 DÍA 3
+
+👉 Stripe
+
+- [ ]  Copiar SOLO:
+    - 1 bloque de “feature” (icono + título + texto)
+
+🎯 Enfócate en:
+
+→ estructura repetible
